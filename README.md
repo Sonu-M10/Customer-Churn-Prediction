@@ -98,6 +98,10 @@ The project includes visualizations showing:
 - Git
 - GitHub
 
+## What I Learned
+
+This project helped me practice the full machine learning workflow, from cleaning and exploring data to preparing features, training models, tuning hyperparameters, evaluating results, and interpreting model predictions.
+
 ## Project Structure
 
 ```text
@@ -120,6 +124,4 @@ customer-churn-prediction/
 │
 ├── .gitignore
 └── README.md
-
-##What I Learned
-This project helped me practice the full machine learning workflow, from cleaning and exploring data to preparing features, training models, tuning hyperparameters, evaluating results, and interpreting model predictions.
+```
