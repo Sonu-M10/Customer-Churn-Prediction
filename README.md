@@ -120,5 +120,6 @@ customer-churn-prediction/
 │
 ├── .gitignore
 └── README.md
-What I Learned
+
+##What I Learned
 This project helped me practice the full machine learning workflow, from cleaning and exploring data to preparing features, training models, tuning hyperparameters, evaluating results, and interpreting model predictions.
